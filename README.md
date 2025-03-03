@@ -1,19 +1,19 @@
-Blazingly Fast Rust API 🚀
+*Blazingly Fast Rust API 🚀
 
 This project is a high-performance Rust API built using Axum and Tokio, optimized for handling 10K-50K concurrent requests with low latency (~1-5ms per request).
 
-📌 Features
+**📌 Features
 
 ✅ Lightweight and fast HTTP server using Axum✅ Optimized for high concurrency using Tokio's multi-threaded runtime✅ Handles massive traffic loads efficiently✅ Supports load testing with Apache Benchmark (ab) and wrk✅ Production-ready with low response time (~1-5ms)
 
-📂 Project Structure
+**📂 Project Structure
 📦 rust-api
 ├── src
 │   ├── main.rs  # Main entry point for the API
 ├── Cargo.toml   # Dependencies and configuration
 ├── README.md    # Project documentation
 
-🛠 Installation
+**🛠 Installation
 
 1️⃣ Install Rust & Cargo
 
